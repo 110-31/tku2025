@@ -12,7 +12,7 @@ virtualenv 取一個名稱
 到虛擬環境Scripts目錄中啟動  
 activate  
   
--相關-
+-相關-  
 virtualenv->virtualenv -p python3.10 XXX  
 flask->https://flask.palletsprojects.com/en/3.0.x/  
 sqlitebrowser->https://sqlitebrowser.org/dl/  
