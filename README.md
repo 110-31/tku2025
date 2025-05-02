@@ -16,6 +16,7 @@ activate
 virtualenv->virtualenv -p python3.10 XXX  
 opencv->https://github.com/opencv/opencv/tree/4.x/data  
 mediapipe->https://ai.google.dev/edge/mediapipe/solutions/guide?hl=zh-tw  
+https://github.com/google-ai-edge/mediapipe-samples/tree/main/examples  
 ultralytics->https://docs.ultralytics.com/zh  
 flask->https://flask.palletsprojects.com/en/3.0.x/  
 sqlitebrowser->https://sqlitebrowser.org/dl/  
