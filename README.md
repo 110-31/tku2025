@@ -12,7 +12,7 @@ virtualenv (取一個名稱)
 到虛擬環境Scripts目錄中啟動  
 activate  
 
--安裝-  
+-安裝模組-  
 ModuleNotFoundError: No module named 'cv2'  
 pip install opencv-python  
 
