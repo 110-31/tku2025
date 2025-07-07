@@ -18,6 +18,14 @@ activate
 ModuleNotFoundError: No module named 'cv2'  
 pip install opencv-python  
 
+ModuleNotFoundError: No module named 'mediapipe'  
+pip install mediapipe  
+(myenv313) D:\Tamkang_University\02>pip install mediapipe
+ERROR: Could not find a version that satisfies the requirement mediapipe (from versions: none)
+ERROR: No matching distribution found for mediapipe
+
+
+
 
 ------------------------------------------------------------------------------  
 
