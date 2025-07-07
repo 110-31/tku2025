@@ -11,7 +11,12 @@ virtualenv (取一個名稱)
 3->啟動  
 到虛擬環境Scripts目錄中啟動  
 activate  
-  
+
+-安裝-  
+ModuleNotFoundError: No module named 'cv2'  
+pip install opencv-python  
+
+
 -相關-  
 virtualenv->virtualenv -p python3.10 XXX  
 opencv->https://github.com/opencv/opencv/tree/4.x/data  
