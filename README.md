@@ -30,6 +30,8 @@ ERROR: No matching distribution found for mediapipe
 ------------------------------------------------------------------------------  
 
 -相關-  
+opencv cascade-files    
+https://github.com/atduskgreg/opencv-processing/tree/master/lib/cascade-files  
 virtualenv->virtualenv -p python3.12 XXX  
 opencv->https://github.com/opencv/opencv/tree/4.x/data  
 mediapipe->https://ai.google.dev/edge/mediapipe/solutions/guide?hl=zh-tw  
@@ -39,4 +41,5 @@ flask->https://flask.palletsprojects.com/en/3.0.x/
 sqlitebrowser->https://sqlitebrowser.org/dl/  
 line_develop->https://developers.line.biz/zh-hant/  
 ngrok->https://ngrok.com/  
+
 
