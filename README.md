@@ -39,6 +39,6 @@ mediapipe->https://ai.google.dev/edge/mediapipe/solutions/guide?hl=zh-tw
 https://github.com/google-ai-edge/mediapipe-samples/tree/main/examples  
 ultralytics->https://docs.ultralytics.com/zh  
 flask->https://flask.palletsprojects.com/en/3.0.x/  
-
+fastapi->https://fastapi.tiangolo.com/  
 
 
