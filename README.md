@@ -1,6 +1,3 @@
-https://www.bnext.com.tw/article/82704/how-to-vibe-coding-2025?  
-
-
 ![image](demo.jpg)  
 
 -虛擬環境安裝-  
@@ -40,6 +37,7 @@ opencv cascade-files->https://github.com/opencv/opencv/tree/4.x/data
 https://teachablemachine.withgoogle.com/  
 mediapipe->https://ai.google.dev/edge/mediapipe/solutions/guide?hl=zh-tw  
 https://github.com/google-ai-edge/mediapipe-samples/tree/main/examples  
+https://universe.roboflow.com/
 ultralytics->https://docs.ultralytics.com/zh  
 flask->https://flask.palletsprojects.com/en/3.0.x/  
 fastapi->https://fastapi.tiangolo.com/  
