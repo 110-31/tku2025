@@ -1,3 +1,6 @@
+https://www.bnext.com.tw/article/82704/how-to-vibe-coding-2025?  
+
+
 ![image](demo.jpg)  
 
 -虛擬環境安裝-  
