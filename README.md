@@ -47,6 +47,7 @@ flask->https://flask.palletsprojects.com/en/3.0.x/
 fastapi->https://fastapi.tiangolo.com/  
 STEAM 教育學習網-> https://steam.oxxostudio.tw/category/python/ai/opencv-inrange.html  
 影片播放軟體->https://potplayer.daum.net/  
+影片下載->https://drive.google.com/file/d/1Jq0Kstm5Md6kr_XQr1NMVffFq5rTt_iu/view?usp=sharing  
 
 
 
