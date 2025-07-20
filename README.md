@@ -40,6 +40,7 @@ opencv cascade-files->https://github.com/opencv/opencv/tree/4.x/data
 https://teachablemachine.withgoogle.com/  
 mediapipe->https://ai.google.dev/edge/mediapipe/solutions/guide?hl=zh-tw  
 https://github.com/google-ai-edge/mediapipe-samples/tree/main/examples  
+https://mediapipe.readthedocs.io/en/latest/solutions/hands.html  
 universe->https://universe.roboflow.com/  
 ultralytics->https://docs.ultralytics.com/zh  
 flask->https://flask.palletsprojects.com/en/3.0.x/  
