@@ -44,5 +44,7 @@ universe->https://universe.roboflow.com/
 ultralytics->https://docs.ultralytics.com/zh  
 flask->https://flask.palletsprojects.com/en/3.0.x/  
 fastapi->https://fastapi.tiangolo.com/  
+STEAM 教育學習網-> https://steam.oxxostudio.tw/category/python/ai/opencv-inrange.html  
+
 
 
