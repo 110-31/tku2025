@@ -1,3 +1,5 @@
+https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170  
+
 from mediapipe.python._framework_bindings import model_ckpt_util
 ImportError: DLL load failed while importing _framework_bindings: 動態連結程式庫 (DLL) 初始化例行程序失敗。
 
