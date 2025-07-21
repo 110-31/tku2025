@@ -5,8 +5,8 @@
 ![image](demo.jpg)  
 
 -虛擬環境安裝-  
-
-https://www.python.org/downloads/windows/
+3.12.8  
+https://www.python.org/downloads/windows/  
   
 1->環境變數  
 C:\Users\XX\AppData\Local\Programs\Python\Python312\Scripts  
