@@ -1,8 +1,3 @@
-https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170  
-
-from mediapipe.python._framework_bindings import model_ckpt_util
-ImportError: DLL load failed while importing _framework_bindings: 動態連結程式庫 (DLL) 初始化例行程序失敗。
-
 
 1dataset->https://universe.roboflow.com/hiraki/rock-paper-scissors-rbzgd/dataset/2  
 2dataset->https://universe.roboflow.com/xiao-chen-gypet/yahoooooo  
@@ -36,7 +31,11 @@ ERROR: Could not find a version that satisfies the requirement mediapipe (from v
 ERROR: No matching distribution found for mediapipe
 
 
+from mediapipe.python._framework_bindings import model_ckpt_util
+ImportError: DLL load failed while importing _framework_bindings: 動態連結程式庫 (DLL) 初始化例行程序失敗。  
 
+pip install msvc-runtime  
+https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170  
 
 ------------------------------------------------------------------------------  
 
