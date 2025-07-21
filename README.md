@@ -5,6 +5,8 @@
 ![image](demo.jpg)  
 
 -虛擬環境安裝-  
+
+https://www.python.org/downloads/windows/
   
 1->環境變數  
 C:\Users\XX\AppData\Local\Programs\Python\Python312\Scripts  
@@ -13,6 +15,7 @@ C:\Users\XX\AppData\Local\Programs\Python\Python312
 2->安裝virtualenv  
 pip install virtualenv  
 virtualenv (取一個名稱)  
+virtualenv -p python3.12 (取一個名稱)  
   
 3->啟動  
 到虛擬環境Scripts目錄中啟動  
