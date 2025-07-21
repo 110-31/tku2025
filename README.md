@@ -1,3 +1,7 @@
+from mediapipe.python._framework_bindings import model_ckpt_util
+ImportError: DLL load failed while importing _framework_bindings: 動態連結程式庫 (DLL) 初始化例行程序失敗。
+
+
 1dataset->https://universe.roboflow.com/hiraki/rock-paper-scissors-rbzgd/dataset/2  
 2dataset->https://universe.roboflow.com/xiao-chen-gypet/yahoooooo  
 
