@@ -33,7 +33,6 @@ ERROR: No matching distribution found for mediapipe
 
 from mediapipe.python._framework_bindings import model_ckpt_util
 ImportError: DLL load failed while importing _framework_bindings: 動態連結程式庫 (DLL) 初始化例行程序失敗。  
-
 https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170  
 
 -Windows 上的 Python DLL 載入失敗-  
