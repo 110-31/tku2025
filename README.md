@@ -5,6 +5,10 @@
 ![image](demo.jpg)  
 
 -虛擬環境安裝-  
+版本:  
+python --version  
+學校(3.12.7)  
+
 3.12.8  
 https://www.python.org/downloads/windows/  
   
